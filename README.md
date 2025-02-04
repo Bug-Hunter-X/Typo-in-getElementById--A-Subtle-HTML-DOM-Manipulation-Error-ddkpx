@@ -1,0 +1,1 @@
+This repository demonstrates a subtle yet frustrating bug in HTML related to DOM manipulation. The bug stems from a simple typo in the function call `getElementByIdx` instead of the correct `getElementById`. This leads to a runtime error that is not always easy to spot for beginners. The solution shows the correct way to manipulate the DOM.
